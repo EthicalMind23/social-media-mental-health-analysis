@@ -46,8 +46,6 @@ This project explores the **impact of social media usage on mental health**, wit
 │   └── survey_responses.csv
 ├── 📓 notebooks/
 │   └── analysis.ipynb
-├── 📁 visualizations/
-│   └── platform_trends.png
 ├── 📄 README.md
 └── 📄 requirements.txt
 ```
