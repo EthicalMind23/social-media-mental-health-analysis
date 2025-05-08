@@ -1,3 +1,4 @@
+
 # 📊 Influence of Social Media on Mental Health – Analysis Using Python
 
 ## 🧠 Overview
@@ -46,6 +47,8 @@ This project explores the **impact of social media usage on mental health**, wit
 │   └── survey_responses.csv
 ├── 📓 notebooks/
 │   └── analysis.ipynb
+├── 📁 visualizations/
+│   └── platform_trends.png
 ├── 📄 README.md
 └── 📄 requirements.txt
 ```
@@ -104,3 +107,15 @@ This project is based on an extensive literature review including works by:
 - Twenge et al. (2018)
 - Frison & Eggermont (2016)  
 …and many more cited in the full documentation.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repo, make your changes, and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
